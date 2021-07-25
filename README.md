@@ -17,4 +17,4 @@
 ![Computer Science 50 Certification by Havard University](https://flemking.com/wp-content/uploads/2021/03/CS50x.png)
 
 ## Full FrontEnd Carrier Path Certification
-![Computer Science 50 Certification by Havard University](https://scrimba.com/certificate/uqQm6Zs9/gfrontend)
+![Full FrontEnd Carrier Path Bootcamp with Scrimba](https://scrimba.com/certificate/uqQm6Zs9/gfrontend)
