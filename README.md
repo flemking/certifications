@@ -3,7 +3,7 @@
 ## Here is all of my certifications
 
 
-## Computer Science (CS50) Certification
+## Computer Science (CS50) Certification by Havard University
 ![Computer Science 50 Certification by Havard University](https://flemking.com/wp-content/uploads/2021/03/CS50x.png)
 
 ## Full FrontEnd Carrier Path Certification with Scrimba
@@ -21,5 +21,5 @@
 ## Javascript Algorythms and Data Structures Certification
 ![Javascript Algorythms and Data Structures Certification](https://flemking.com/wp-content/uploads/2021/05/Javascript-Certifiactions.png)
 
-## Digital Marketing Certification
+## Digital Marketing Certification by Google.Inc
 ![Digital Marketing Certification by Google.Inc](https://flemking.com/wp-content/uploads/2021/03/Digital-Marketing.png)
