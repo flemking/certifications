@@ -13,13 +13,13 @@
 ![Wordpress Developer Certification](https://github.com/flemking/certifications/blob/main/Wordpress%20Developer%20Certification.jpg)
 
 ## Responsive Web Deigner Certification
-![Responsive Web Deigner Certification](https://flemking.com/wp-content/uploads/2021/03/www.freecodecamp.org_certification_flemking_responsive-web-design_-_2021-01-08_06.23.39.png)
+![Responsive Web Deigner Certification](https://github.com/flemking/certifications/blob/main/Responsive%20Web%20Design%20Certification.png)
 
 ## Frontend Libraries Certification
-![Frontend Libraries Certification](https://flemking.com/wp-content/uploads/2021/05/Frontend-Libraries-Certifications.png)
+![Frontend Libraries Certification](https://github.com/flemking/certifications/blob/main/Frontend%20Libraries%20Certifications.png)
 
 ## Javascript Algorythms and Data Structures Certification
-![Javascript Algorythms and Data Structures Certification](https://flemking.com/wp-content/uploads/2021/05/Javascript-Certifiactions.png)
+![Javascript Algorythms and Data Structures Certification](https://github.com/flemking/certifications/blob/main/Javascript%20Certifiactions.png)
 
 ## Digital Marketing Certification by Google.Inc
 ![Digital Marketing Certification by Google.Inc](https://flemking.com/wp-content/uploads/2021/03/Digital-Marketing.png)
