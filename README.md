@@ -1,6 +1,6 @@
 # Certifications
 
-## Here is all of my certifications
+## Here are all my certifications
 
 
 ## Computer Science (CS50) Certification by Havard University
