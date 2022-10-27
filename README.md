@@ -3,6 +3,15 @@
 ## Here are all my certifications
 
 
+## Google IT Automation with Python Professional Certificate
+![Google IT Automation with Python Professional Certificate](https://github.com/flemking/certifications/blob/main/Google%20IT%20Automation%20Certificate%20-1.jpg)
+
+## Google IT Support Professional Certificate
+![Google IT Support Professional Certificate](https://github.com/flemking/certifications/blob/main/Google%20IT%20Support%20Certificate%20-1.jpg)
+
+## Agile with Atlassian Jira Certification
+![Agile with Atlassian Jira Certification](https://github.com/flemking/certifications/blob/main/Agile%20Certification%20by%20Atlassian%20Jira-1.jpg)
+
 ## Computer Science (CS50) Certification by Havard University
 ![Computer Science 50 Certification by Havard University](https://flemking.com/wp-content/uploads/2021/03/CS50x.png)
 
