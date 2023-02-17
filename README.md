@@ -13,7 +13,7 @@
 ![Agile with Atlassian Jira Certification](https://github.com/flemking/certifications/blob/main/Agile%20Certification%20by%20Atlassian%20Jira-1.jpg)
 
 ## Computer Science (CS50) Certification by Havard University
-![Computer Science 50 Certification by Havard University](https://flemking.com/wp-content/uploads/2021/03/CS50x.png)
+![Computer Science 50 Certification by Havard University](https://github.com/flemking/certifications/blob/main/CS50%20Certificate%20Image.png)
 
 ## Full FrontEnd Carrier Path Certification with Scrimba
 ![Full FrontEnd Carrier Path Bootcamp with Scrimba](https://github.com/flemking/certifications/blob/main/Scrimba%20Certification.png)
